@@ -210,6 +210,7 @@ def main():
         {'type': 'mountain', 'model': 'Trek Marlin', 'price_per_hour': 10.0},
         {'type': 'road', 'model': 'Specialized Allez', 'price_per_hour': 12.0},
         {'type': 'electric', 'model': 'Rad Power', 'price_per_hour': 15.0, 'battery_capacity': 500},
+        {'type': 'water bike', 'model': 'Ris Power', 'price_per_hour': 30.0, 'battery_capacity': 300},
     ]
     
     bike_ids = []
